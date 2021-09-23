@@ -1,6 +1,6 @@
 # automacaoTeste Com Protractor
 
-7 Passos para iniciar automação de testes com Protracto
+7 Passos para iniciar automação de testes com Protractor
 
 ## Pré-requisitos
 
