@@ -1,6 +1,6 @@
 # automacaoTeste Com Protractor
 
-7 Passos para iniciar automação de testes com Protracto
+7 Passos para iniciar automação de testes com Protractor
 
 ## Pré-requisitos
 
@@ -9,7 +9,7 @@
 
 ## Baixando o repositório
 
-````git clone https://github.com/magnonsantos10/automacaoTeste.git```
+```git clone https://github.com/magnonsantos10/automacaoTeste.git```
 
 ## Instalação das dependências Node_modules // Package-lock.json // Package.json
 
