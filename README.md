@@ -36,8 +36,8 @@ baseUrl: 'http://www.protractortest.org/'
 };
 ```
 ## Criar pasta para receber as specs do projeto
-# Estrutura de uma spec ex: `homepage.spec.js`
-# Toda spec precisa ter um describe e um it
+### Estrutura de uma spec ex: `homepage.spec.js`
+### Toda spec precisa ter um describe e um it
 
 ```
 describe('Homepage', function() {
